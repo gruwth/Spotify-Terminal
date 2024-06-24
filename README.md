@@ -1,2 +1,1 @@
 # Spotify-Terminal
-# Spotify-Terminal
